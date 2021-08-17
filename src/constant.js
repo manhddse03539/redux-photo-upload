@@ -1,4 +1,5 @@
 export const PHOTO_CATEGORY_OPTIONS = [
+  { value: 0, label: 'Choose one of categories' },
   { value: 1, label: 'Technology' },
   { value: 2, label: 'Education' },
   { value: 3, label: 'Nature' },
